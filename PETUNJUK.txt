@@ -16,3 +16,5 @@ Lalu
 2. overwrite/timpa file yang ada di folder algodoo tersebut
 
 (windows 10)
+
+Download aplikasi algodoo di link berikut  algodoo.com
