@@ -1,0 +1,18 @@
+PETUNJUK MERUBAH KE BAHASA INDONESIA
+
+Supaya file bisa di kopi ke drive c:  folder algodoo (windows 10)
+Langkahnya:
+1. Klik kanan drive c:
+2. Properties
+3. Security
+4. Edit (Group User)
+5. Klik Add
+6. Centang Allow - full control
+7. Apply
+
+
+Lalu 
+1. kopi paste 3 file ubah bahasa (indonesian.png, indonesian.cfg, language_codes) ke folder berikut   c:\file program (x86)/algodoo/data/language 
+2. overwrite/timpa file yang ada di folder algodoo tersebut
+
+(windows 10)
